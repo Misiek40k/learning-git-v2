@@ -7,6 +7,10 @@
     margin-bottom: 30px;
 }
 
+.subtitle {
+    margin-bottom: 50px;
+}
+
 .subtitle .subtitle-link {
     text-decoration: none;
     padding: 10px;
