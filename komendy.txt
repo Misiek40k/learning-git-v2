@@ -1,0 +1,7 @@
+autoprefixer-cli:
+
+npx autoprefixer-cli -o style.prefixed.css style.css
+
+nu-html-checker:
+
+npx nu-html-checker ./*.html
